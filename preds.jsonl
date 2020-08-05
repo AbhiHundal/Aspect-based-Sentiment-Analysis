@@ -146,7 +146,7 @@
         "text":"i hear that under location1 is quite cheap",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -165,7 +165,7 @@
         "text":"i liv in tower hamlets in location1 which is a place where a lot of violence happens wiv gangs e",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -233,7 +233,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -257,12 +257,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -286,12 +286,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -347,7 +347,7 @@
         "text":"i wouldn't say the location1 is a  hole like the other person did",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -401,12 +401,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -439,22 +439,22 @@
         "text":"if i had the money location1 or location2 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -555,12 +555,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -636,8 +636,8 @@
         "text":"location1 is one of these safets places in london",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -671,22 +671,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -757,13 +757,13 @@
         "text":"location2 is nearer to london location1 is a cesspit",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"green-nature",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"green-nature",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -846,22 +846,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -899,7 +899,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -918,7 +918,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -1062,17 +1062,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -1210,12 +1210,12 @@
         "text":"don't do location2 and don't do location1 either",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             }
@@ -1235,7 +1235,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -1269,22 +1269,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -1355,12 +1355,12 @@
         "text":"i don't want to live in location2 or location1 and such areas like this ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION2"
             }
@@ -1408,7 +1408,7 @@
         "text":"i have heard from some friends that location1 and places nearby are quite dangerous to live in due to the high criminal cases",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -1500,12 +1500,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -1523,7 +1523,7 @@
         "text":"i walked down the streets in location1 around 2-3 am, drunk, and had no problems whatsoever",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -1542,7 +1542,7 @@
         "text":"i was gonna say location1  but that is known to be the most exspensive area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -1624,12 +1624,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -1729,12 +1729,12 @@
         "text":"i'd reommend you go location1  rather than location2  because there are so few tube stations in location2 london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
@@ -1830,7 +1830,7 @@
         "text":"location1  area, it's a bit expensive ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -1965,7 +1965,7 @@
         "text":"location1  which is a craphole keep clear  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -2057,12 +2057,12 @@
         "text":"location1 and location2 are quite expensive areas to rent\/buy in",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -2131,7 +2131,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2149,7 +2149,7 @@
         "text":"location1 costs a bit more than south",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -2275,17 +2275,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2380,7 +2380,7 @@
         "text":"location1 is alright ,  not one of the worst areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -2404,13 +2404,13 @@
         "text":"location1 is amazing but you need literally millions to live there aha",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"live",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"live",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2486,7 +2486,7 @@
         "text":"location1 is having lots of money thrown at it right now",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -2505,7 +2505,7 @@
         "text":"location1 is in a skank area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -2572,7 +2572,7 @@
         "text":"location1 is not really the worst place to live ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -2674,12 +2674,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2721,13 +2721,13 @@
         "text":"location1 is rough and quite nasty - i would not like to walk round there at night",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2751,12 +2751,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2814,17 +2814,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2861,7 +2861,7 @@
         "text":"location1 which is a bit of a dump, doesn't reflect location2 at all ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -2905,12 +2905,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"multicultural",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"multicultural",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -2963,12 +2963,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -3143,7 +3143,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -3167,12 +3167,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -3229,7 +3229,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -3253,12 +3253,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -3305,7 +3305,7 @@
         "text":"stay in location1  that way when you are going to and from location2 all you have to do is get on the train and not have to worry about getting across london on the tube with your suitcases and risk delays and so on",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
@@ -3534,12 +3534,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -3557,7 +3557,7 @@
         "text":"you will see that location1 is the most dangerous london borough and , by far , has the most crime",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -3630,12 +3630,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -3682,7 +3682,7 @@
         "text":"beware as the lock tends to act as the focal point for location1 s drug dealing, especially at night",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -3764,13 +3764,13 @@
         "text":"don't bother going to live in location2 or location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"live",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -3929,22 +3929,22 @@
         "text":"i guess the only two decent places of london are location1 and location2 but those are the most expensive places in london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -4045,12 +4045,12 @@
         "text":"i would recommend location1  it is better in my opinion, hence it is more expensive i think",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -4103,12 +4103,12 @@
         "text":"id much rather be in location1  , but there are areas like location2 that i tend to stay clear of",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -4214,8 +4214,8 @@
         "text":"just stay away from location1 i lived in london and worked all over it for several years",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4244,17 +4244,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4425,7 +4425,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4468,12 +4468,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4529,7 +4529,7 @@
         "text":"theres nothing wrong with location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -4622,22 +4622,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4690,12 +4690,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4733,7 +4733,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4752,7 +4752,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -4838,7 +4838,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -5007,22 +5007,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"shopping",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"shopping",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -5094,12 +5094,12 @@
         "text":"- learn the red-light spots such as location1 where alot of drugs, whores and drunks stay around, you don't wanna get lost around those places",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -5161,12 +5161,12 @@
         "text":"a little flat in location1 will be very nice, but will cost you a good deal of money",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -5315,12 +5315,12 @@
         "text":"afraid to go out  location1 is a horrible place full of scum",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -5349,7 +5349,7 @@
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -5374,12 +5374,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -5544,7 +5544,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -5702,22 +5702,22 @@
         "text":"alternatively, there is the very popular area of location1 (and also location2  although these are probably more expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -5760,12 +5760,12 @@
         "text":"and location1 is no better, you'll be paying higher rent rates, and have just as many housing estates on your door step",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -5790,12 +5790,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -5824,17 +5824,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6004,22 +6004,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -6037,7 +6037,7 @@
         "text":"areas in essex such as location1 are quite affluent but would be considered by many to be more of a 'new money' crowd",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -6182,17 +6182,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -6215,12 +6215,12 @@
         "text":"avoid location2 (nothing interesting there) , stay  location1 areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -6244,12 +6244,12 @@
         "text":"be excited , not stressed , everything will be great location1 is a very very desirable area - amazing that you can afford to live there as a student",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -6394,7 +6394,7 @@
         "text":"but not in location1 where rents are astronomical",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -6429,22 +6429,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6540,7 +6540,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6646,7 +6646,7 @@
         "text":"clubs , pubs and students it is also true that location1 is infested by students",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -6685,7 +6685,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6732,8 +6732,8 @@
         "text":"don't go to location1  i lived there for 3 years, it's horrible",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6810,7 +6810,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6829,7 +6829,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6891,22 +6891,22 @@
         "text":"everyone would love to live in location1 and location2 but few can afford it",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -6926,7 +6926,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -6944,7 +6944,7 @@
         "text":"first of all, location1 isn't a 'no go' area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -6982,7 +6982,7 @@
         "text":"for christ's sake do not move to location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -7021,7 +7021,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7084,22 +7084,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -7133,22 +7133,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7263,7 +7263,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7428,17 +7428,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7605,12 +7605,12 @@
         "text":"have a great time in location2 and location1 you have to beware of scams , but it seems good",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             }
@@ -7713,22 +7713,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -7746,7 +7746,7 @@
         "text":"however , if you insist on living on your own , i really feel that location1 is a pretty cheap area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -7765,7 +7765,7 @@
         "text":"however, i can assure you there are some areas in location1 that are pretty rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -7784,8 +7784,8 @@
         "text":"however, i would say the very worst area is location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7862,7 +7862,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -7915,12 +7915,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8079,12 +8079,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8194,12 +8194,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8265,7 +8265,7 @@
         "text":"i do n't think there 's any safe place to live in london cause the chaos of drugs , alcohol and illegal aliens with the compliment of the government so they can control the masses with the dna check and the national id proposal etc suton , and location1 are great",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -8313,7 +8313,7 @@
         "text":"i dont have much money so i am obviously not going to be moving to location1 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -8333,7 +8333,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"touristy",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8448,7 +8448,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8505,7 +8505,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8524,7 +8524,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8610,7 +8610,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8800,8 +8800,8 @@
         "text":"i live in location1 my whole life which has a notorious reputation ",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"live",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8960,12 +8960,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -8984,7 +8984,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9046,12 +9046,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9089,7 +9089,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9194,7 +9194,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9324,12 +9324,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9414,7 +9414,7 @@
         "text":"i think the whole of location1 is best avoided to be honest  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -9520,17 +9520,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9691,7 +9691,7 @@
         "text":"i would describe most of location1 as being like a foreign country , if you walk down the high street you'll be lucky to see a white a face ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -9740,7 +9740,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9803,12 +9803,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -9837,17 +9837,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -9889,12 +9889,12 @@
         "text":"i would say location1 is quite safe,  a lot of very wealthy people living there",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -9913,7 +9913,7 @@
         "text":"i would say the most expensive part of london to live is location1 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -9938,12 +9938,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10009,7 +10009,7 @@
         "text":"i wouldn't live in location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -10048,28 +10048,28 @@
         "text":"i wouldn't live in location1 (too dangerous - it's way above the met average for all types of crime) or location2 - which is both expensive and well above the met average for burglary and robbery",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -10087,7 +10087,7 @@
         "text":"i wouldn't recommend location1 at all",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -10155,7 +10155,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10299,7 +10299,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10317,7 +10317,7 @@
         "text":"i've recently moved away from location1 and miss it like you wouldn't believe",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -10379,13 +10379,13 @@
         "text":"id stay away from location1  pretty rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10499,7 +10499,7 @@
         "text":"if anything location1 is the scum of all scum places",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -10523,13 +10523,13 @@
         "text":"if it is in your budget then location1  near location1 may be your choice",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10581,23 +10581,23 @@
         "text":"if money is no object look at location2 and location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -10654,8 +10654,8 @@
         "text":"if you are poor, you might live in location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"live",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10697,12 +10697,12 @@
         "text":"if you can afford it then location1 ( where location1 is ) is gorgeous but out of most people 's price ranges",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -10883,12 +10883,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -10993,7 +10993,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11027,22 +11027,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11066,12 +11066,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11147,7 +11147,7 @@
         "text":"im not a fan of location1 at all ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -11260,12 +11260,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11371,7 +11371,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"touristy",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11389,7 +11389,7 @@
         "text":"it 's a myth that location1 is cheap , prices have shot up due to the olympics the words `` dont cost too much '' and `` london '' dont belong in the same sentence",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -11408,8 +11408,8 @@
         "text":"it actually shows that the most \"dangerous\" area is probably the area you immediately think of when you think of london, location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11465,8 +11465,8 @@
         "text":"it is true that there are some very rough areas not too far away  location1 in particular is notorious ",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11485,7 +11485,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11546,12 +11546,12 @@
         "text":"just avoid location1 and location2 unless you want to just go home and stay at home each evening (some parts are rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             }
@@ -11633,12 +11633,12 @@
         "text":"just up to road in location1 is plain dangerous, i myself was mugged with a knife there once, and i would thoroughly discourage you to look for anything there",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -11657,8 +11657,8 @@
         "text":"just watch out for location1  thats a no-go",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11681,12 +11681,12 @@
         "text":"location1  has lost it's edge, as well as being very expensive to live in",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -11734,7 +11734,7 @@
         "text":"location1 ( nw1 ) is ok , but beware of certain council blocks which do have a reputation",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -11754,7 +11754,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -11885,12 +11885,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -11947,7 +11947,7 @@
         "text":"location1 - lots of rich folk live around that area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -11982,22 +11982,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -12094,17 +12094,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -12127,12 +12127,12 @@
         "text":"location1 location1 is a great but expensive area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -12238,7 +12238,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -12424,12 +12424,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -12481,12 +12481,12 @@
         "text":"location1 and location2 are less good in terms of public transport and you might feel you need a car there stay away if you are working person",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
@@ -12539,12 +12539,12 @@
         "text":"location1 and location2 are probably the most well known slum areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -12676,12 +12676,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -12728,7 +12728,7 @@
         "text":"location1 and surrounding streets are the most expensive to live in",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -12752,12 +12752,12 @@
         "text":"location1 and the areas  close to location1 are really nice (expensive, though)",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -13007,7 +13007,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"multicultural",
+                "aspect":"touristy",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13045,7 +13045,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13088,12 +13088,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13456,7 +13456,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13546,12 +13546,12 @@
         "text":"location1 is a big more grungy but lots to do and still quite posh",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -13575,12 +13575,12 @@
         "text":"location1 is a bit of a dump, location2 is slightly nicer, though of course both have better and worse areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -13610,17 +13610,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -13638,7 +13638,7 @@
         "text":"location1 is a bit rough round the edges , but use your common sense and do n't flash your expensive belongings around the council estates late at night and you will be fine well , you could say it gets dangerously full of drunken students on friday and saturday night but apart from that it is no more dangerous than any other part of london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -13657,7 +13657,7 @@
         "text":"location1 is a complete dump",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -13677,7 +13677,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13695,7 +13695,7 @@
         "text":"location1 is a decent area , you can tell if the area has gangs in it or not by looking at walls in alleyways to see if there are tags on them",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -13811,7 +13811,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13912,12 +13912,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -13974,7 +13974,7 @@
         "text":"location1 is a notoriously rough area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -14018,12 +14018,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14041,7 +14041,7 @@
         "text":"location1 is a pretty dingy area , and i wouldnt live there unless i really had to",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -14098,7 +14098,7 @@
         "text":"location1 is a s  t hole stay clear unless your a drug dealer or addict i moved from there only 9 months ago and never looked back",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -14155,7 +14155,7 @@
         "text":"location1 is a suburb of location2 really , but its terrible",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -14180,12 +14180,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14301,17 +14301,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14368,7 +14368,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"multicultural",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14424,7 +14424,7 @@
         "text":"location1 is an armpit full of chavs",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -14443,8 +14443,8 @@
         "text":"location1 is an enormous area with all sorts of areas within it , some very luxurious and expensive ",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14463,7 +14463,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14487,12 +14487,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14521,17 +14521,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14598,7 +14598,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14616,7 +14616,7 @@
         "text":"location1 is becoming a ghetto now  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -14769,7 +14769,7 @@
         "text":"location1 is dull i am looking to move to london soon but do not really know it that well",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -14813,12 +14813,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -14855,7 +14855,7 @@
         "text":"location1 is full of gangs",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -14908,12 +14908,12 @@
         "text":"location1 is generally considered the nicest, cleanest and safest part  s",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -15049,7 +15049,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15087,7 +15087,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15188,12 +15188,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15211,7 +15211,7 @@
         "text":"location1 is just a tourist hole ; avoid at all costs",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -15250,7 +15250,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15273,12 +15273,12 @@
         "text":"location1 is looking a bit tatty these days as is location2",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -15380,12 +15380,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15499,7 +15499,7 @@
         "text":"location1 is n't great",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -15519,7 +15519,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -15648,12 +15648,12 @@
         "text":"location1 is nice but you might find property a bit more expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -15768,7 +15768,7 @@
         "text":"location1 is nicer , i think , despite it 's reputation",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -15830,13 +15830,13 @@
         "text":"location1 is not a good area , location2 in general can be quite rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -15854,7 +15854,7 @@
         "text":"location1 is not far",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -15902,7 +15902,7 @@
         "text":"location1 is not pretty, but you can't move there if you are not an eu citizen",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -16173,7 +16173,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16342,12 +16342,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16365,7 +16365,7 @@
         "text":"location1 is pricey",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16384,7 +16384,7 @@
         "text":"location1 is pricey i 'm moving from london , uk to toronto next year and would like to live in a comparable neighbourhood",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16403,7 +16403,7 @@
         "text":"location1 is pricey my friends and i want to live in london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16422,7 +16422,7 @@
         "text":"location1 is quite an expensive area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16460,7 +16460,7 @@
         "text":"location1 is quite expensive and as you hint at in your question has several parts - ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16479,8 +16479,8 @@
         "text":"location1 is quite far up north and at the border, so that may be a pain location wise but it is  also a pleasant area",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"transit-location",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16514,22 +16514,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16615,7 +16615,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16638,12 +16638,12 @@
         "text":"location1 is really nice if you can afford it",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16691,7 +16691,7 @@
         "text":"location1 is really rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -16716,12 +16716,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16739,8 +16739,8 @@
         "text":"location1 is rough and quite nasty - i would not like to walk round there at night",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16820,12 +16820,12 @@
         "text":"location1 is supposed to be nice, i heard the traffic is murder though",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -16844,7 +16844,7 @@
         "text":"location1 is terrible to live in",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -16869,12 +16869,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -16916,12 +16916,12 @@
         "text":"location1 is the cheapest area to live in london as it is quite a dodgy area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -16960,7 +16960,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17016,8 +17016,8 @@
         "text":"location1 is the safest place in london to live in",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"safety",
+                "sentiment":"Negative",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17060,12 +17060,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17121,7 +17121,7 @@
         "text":"location1 is very expensive and very posh",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -17389,7 +17389,7 @@
         "text":"location1 itself is no more expensive than location2 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -17457,7 +17457,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17481,12 +17481,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17510,12 +17510,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17577,12 +17577,12 @@
         "text":"location1 nice area, consequently very expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -17640,7 +17640,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"multicultural",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17664,12 +17664,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17693,12 +17693,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"quiet",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17765,17 +17765,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -17831,7 +17831,7 @@
         "text":"location1 suffers from continuous aircraft noise because it is so close to location2",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
@@ -17955,7 +17955,7 @@
         "text":"location1 was one of the worst areas i experienced  my only thought on it is poor doesn't necessarily equate to rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -17994,7 +17994,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -18042,7 +18042,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -18161,22 +18161,22 @@
         "text":"location1, location2 areas are nice, but expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -18224,7 +18224,7 @@
         "text":"location1, because there is a large amount of dangerous gangs there",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -18306,22 +18306,22 @@
         "text":"location1, up-market, posh and expensive; location2 down-market, cheap and shabby",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -18341,7 +18341,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -18394,12 +18394,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -18452,12 +18452,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -18578,12 +18578,12 @@
         "text":"location2 and location1 are rough areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -18636,12 +18636,12 @@
         "text":"location2 and location1 would suit posh, rich people",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -18666,12 +18666,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -18724,12 +18724,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -18820,12 +18820,12 @@
         "text":"location2 is more chilled i think, location1 is where the 'rich' people are etc  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -18854,17 +18854,17 @@
         "text":"location2 is more of a problem as there are no tube stops unless you are actually looking at location1 which is not a great area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
@@ -18889,12 +18889,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -18917,12 +18917,12 @@
         "text":"location2 is ridiculously expensive when it comes to rent so have a look at location1 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -18946,12 +18946,12 @@
         "text":"location2 is top,although location1 is the most expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -19081,12 +19081,12 @@
         "text":"location2 or location1 if your wallet is big enough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -19238,12 +19238,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -19333,12 +19333,12 @@
         "text":"like much of location2  location1 is a poor area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             }
@@ -19363,12 +19363,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -19406,7 +19406,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -19444,7 +19444,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -19510,7 +19510,7 @@
         "text":"lots of stabbings, fights, gangs  on the main road on location1 road   ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -19534,12 +19534,12 @@
         "text":"mega rich and aristocratic try location2 and location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             }
@@ -19698,12 +19698,12 @@
         "text":"most of london is pretty grim but the worst areas are probably  location1 in the southwest  location2 in the north is also awful",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -19723,7 +19723,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"quiet",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -19814,12 +19814,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"safety",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -19837,7 +19837,7 @@
         "text":"my only advice, is to stay well clear of the whole of location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -19856,7 +19856,7 @@
         "text":"nb location1 has a bad reputation for crime",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -19943,7 +19943,7 @@
         "text":"no go nowhere near it location1 is horrible yes it is in fact i was there last weekend you ca n't really pick areas of london that are ` safe ' all the time",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -19997,12 +19997,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20021,7 +20021,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20040,7 +20040,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20073,22 +20073,22 @@
         "text":"now if you like posh areas you could live in west london, in location2  location1  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -20112,12 +20112,12 @@
         "text":"now places to stay clear from are location1 area and anything near it, stay away from location2 area as well ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -20282,7 +20282,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20301,7 +20301,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20330,17 +20330,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20358,7 +20358,7 @@
         "text":"on the other hand, if i was living in location1  i wouldn't swap it to live in location2 ;)",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -20382,13 +20382,13 @@
         "text":"one of the nicest parts of location1 is location1 but the noise levels are really unbearable",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"general",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20460,12 +20460,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20561,7 +20561,7 @@
         "text":"otherwise outside london, somewhere like location1 would probably be a bit cheaper  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -20681,12 +20681,12 @@
         "text":"people often cite location1 as bad but i thought location2 was worse",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -20755,7 +20755,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -20807,12 +20807,12 @@
         "text":"personally, i would steer clear of location2 and location1  simply because they're the most expensive areas and with no good reason",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -20869,7 +20869,7 @@
         "text":"postcodes for location1 are se11 and se17. it's not a great area",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -20995,7 +20995,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21019,12 +21019,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21043,7 +21043,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"green-nature",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21138,7 +21138,7 @@
         "text":"some of the areas the other poster has mentioned - location1 etc are astronomincally expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -21157,7 +21157,7 @@
         "text":"some parts of location1 can be a little rough ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -21244,7 +21244,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21262,7 +21262,7 @@
         "text":"stay away from location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -21281,7 +21281,7 @@
         "text":"stay away from location1 though  hmm this could be tricky",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -21354,22 +21354,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21542,7 +21542,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -21560,7 +21560,7 @@
         "text":"that is a very rough area of location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -21584,12 +21584,12 @@
         "text":"that's really tricky, because the location1 area is gorgeous, but so expensive to live in - most of us 'ordinary' londoners couldn't even consider it",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -21709,12 +21709,12 @@
         "text":"the location1 have been gradually tarted up over the years and there's lots of expensive new apartments and all that",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -21988,12 +21988,12 @@
         "text":"the boroughs with the lowest crime statistics are outer southwest -  location1  location2",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -22057,52 +22057,52 @@
         "text":"the cheap parts of london are location2 and location1 and they are all poor, crime ridden and crowded with immigrants",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -22150,7 +22150,7 @@
         "text":"the dodgier part of location1 should be avoided",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -22203,12 +22203,12 @@
         "text":"the highest crime rate for any area in the uk is location1 in central london ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -22261,22 +22261,22 @@
         "text":"the most expensive areas are probably location2 and location1 in central london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -22300,12 +22300,12 @@
         "text":"the nicer bits, like location1 are very expensive",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -22324,7 +22324,7 @@
         "text":"the only place where i've felt a bit vulnerable is in location1 at night",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -22343,7 +22343,7 @@
         "text":"the outskirts of london (for example location1 in location2  are filled with pretty wealthy areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -22416,12 +22416,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -22458,7 +22458,7 @@
         "text":"the worst area is location1 and you're not going there so it'll be ok",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -22482,12 +22482,12 @@
         "text":"the worst areas are the location2 location1 - in my opinion the worst part of london",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             }
@@ -22526,7 +22526,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -22607,12 +22607,12 @@
         "text":"there are estates nearby (also in location2 and location1  where there are gangs, drugs, gun and knife crime",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -22637,12 +22637,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -22676,22 +22676,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"nightlife",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -22744,22 +22744,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23037,7 +23037,7 @@
         "text":"there is also the history of course because location1 was notorious for the jack the ripper murders in the 1880s and the infamous kray twins in the 1960s",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23095,7 +23095,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23124,17 +23124,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -23257,7 +23257,7 @@
         "text":"this is because location1 historically is known to be a bit 'rough' ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -23276,7 +23276,7 @@
         "text":"three of my friends were mugged within a 4 month time in location1 - 2 girls and 1 guy",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23315,7 +23315,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23455,12 +23455,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23478,7 +23478,7 @@
         "text":"unless you mean red indians and i don't think we have any  correction   location1 is full of bangladeshi's",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23560,12 +23560,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"live",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -23613,7 +23613,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"touristy",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23637,12 +23637,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"shopping",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23665,12 +23665,12 @@
         "text":"would not say location1 or location2 less pleasant",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23708,7 +23708,7 @@
         "text":"yeah it is, just stay away from location1 ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23819,12 +23819,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"multicultural",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23843,7 +23843,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23890,7 +23890,7 @@
         "text":"you can always live in the skanky areas like location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -23910,7 +23910,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -23929,7 +23929,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"touristy",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24005,7 +24005,7 @@
         "text":"you cannot google an abstract concept location1 is one of the more expensive areas in town",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -24054,7 +24054,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"dining",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24142,27 +24142,27 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -24355,8 +24355,8 @@
         "text":"you live where you can afford location1 has a higher crime rate than many other areas of london , but maxi says do n't walk alone anywhere in the uk that is nonsense i have walked everywhere in the uk",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"price",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24408,13 +24408,13 @@
         "text":"you might just find a bedsit or a \"studio\" as they are now called in a grotty part of london like location2 or location1 for 600 pounds but that will be the bare minimum including bills, and the street you are on and the people in your block of flats will probably be quite skanky or even dangerous",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"price",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"price",
+                "sentiment":"Negative",
+                "aspect":"general",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -24458,32 +24458,32 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION2"
             }
         ]
@@ -24501,7 +24501,7 @@
         "text":"you need to be rich to live in some parts of location1  ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -24593,12 +24593,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24651,22 +24651,22 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION2"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"green-nature",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24684,7 +24684,7 @@
         "text":"also depends on what kinda prperty you want  location1 is a comparatively cheap place",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"price",
                 "target_entity":"LOCATION1"
             }
@@ -24703,7 +24703,7 @@
         "text":"although i have been told der are certain areas in location1 which are racist  other then that i don't know much about them",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -24795,12 +24795,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"price",
+                "aspect":"transit-location",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24910,12 +24910,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"general",
+                "aspect":"live",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -24977,22 +24977,22 @@
         "text":"i read somewhere that location1 and location2 are zones to avoid due to crime rate and rough areas",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION2"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -25040,7 +25040,7 @@
         "text":"i would avoid walking through location1 high street on ur own at night, and i would avoid any odd looking alleyways",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -25079,7 +25079,7 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -25127,17 +25127,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"shopping",
+                "aspect":"price",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -25180,12 +25180,12 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"general",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -25214,17 +25214,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"transit-location",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -25271,7 +25271,7 @@
         "text":"just don't live in location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -25290,7 +25290,7 @@
         "text":"just don't live in location1   ",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"live",
                 "target_entity":"LOCATION1"
             }
@@ -25429,13 +25429,13 @@
         "text":"places like location1 are very well off and there are lower levels of crime here as a result you can't really pick areas of london that are 'safe' all the time",
         "model_pred":[
             {
-                "sentiment":"Positive",
-                "aspect":"price",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             },
             {
-                "sentiment":"Positive",
-                "aspect":"price",
+                "sentiment":"Negative",
+                "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
         ]
@@ -25491,7 +25491,7 @@
         "text":"some areas of location1 can be a bit rough",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"safety",
                 "target_entity":"LOCATION1"
             }
@@ -25510,7 +25510,7 @@
         "text":"stay away from location1",
         "model_pred":[
             {
-                "sentiment":"Positive",
+                "sentiment":"Negative",
                 "aspect":"general",
                 "target_entity":"LOCATION1"
             }
@@ -25780,17 +25780,17 @@
         "model_pred":[
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             },
             {
                 "sentiment":"Positive",
-                "aspect":"dining",
+                "aspect":"nightlife",
                 "target_entity":"LOCATION1"
             }
         ]
